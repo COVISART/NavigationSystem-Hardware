@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name STM32F4_REV2-rescue)(type Legacy)(uri ${KIPRJMOD}/STM32F4_REV2-rescue.lib)(options "")(descr ""))
+  (lib (name 2020-11-13_23-18-13)(type Legacy)(uri C:/Users/nobat/Documents/KiCad/2020-11-13_23-18-13/2020-11-13_23-18-13.lib)(options "")(descr ""))
+  (lib (name ICM-42688-P)(type Legacy)(uri ${KIPRJMOD}/lib/ICM-42688-P/ICM-42688-P.lib)(options "")(descr ""))
+  (lib (name FXOS8700CQ)(type Legacy)(uri ${KIPRJMOD}/lib/FXOS8700CQ/FXOS8700CQ.lib)(options "")(descr ""))
+)

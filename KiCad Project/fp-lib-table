@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name ICM-42688-P)(type KiCad)(uri ${KIPRJMOD}/lib/ICM-42688-P)(options "")(descr ""))
+  (lib (name FXOS8700CQ)(type KiCad)(uri ${KIPRJMOD}/lib/FXOS8700CQ)(options "")(descr ""))
+  (lib (name FXOS8700CQR1)(type KiCad)(uri ${KIPRJMOD}/lib/FXOS8700CQR1)(options "")(descr ""))
+)

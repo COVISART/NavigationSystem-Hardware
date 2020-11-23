@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FXOS8700CQR1
+D FXOS8700CQR1
+F https://www.nxp.com/docs/en/data-sheet/FXOS8700CQ.pdf
+$ENDCMP
+# end doc library
